@@ -4,9 +4,16 @@ img {
 }
 
 .out-come img {
-    border: 1px solid black; /* Add a 1px solid black border */
-    margin: 5px; /* Add space between each image (adjust as needed) */
+    border: 1px solid black; 
+    margin: 5px; 
   }
   
+.betting-place img {
+  border: 1px solid black;
+}
+
+.betting-place {
+  gap: 10px; 
+}
 
 
