@@ -1,0 +1,12 @@
+img {
+    max-width: 150px;
+    max-height: 100px;
+}
+
+.out-come img {
+    border: 1px solid black; /* Add a 1px solid black border */
+    margin: 5px; /* Add space between each image (adjust as needed) */
+  }
+  
+
+
